@@ -7,4 +7,6 @@ https://developer.github.com/v3/users/
 3 make  
 4 make install  
 5 vim /etc/profile, export PATH=/opt/python3.6/bin:$PYTHON  
+pip install ipython  
+
 
