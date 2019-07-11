@@ -10,7 +10,6 @@
 """
 import concurrent.futures as futures
 import requests
-import threading
 import time
 
 
